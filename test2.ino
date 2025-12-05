@@ -1,3 +1,5 @@
+// Değişiklik yaptım
+
 int led1 = 2; // Sol dış
 int led2 = 3; // Sol iç
 int led3 = 4; // Orta
